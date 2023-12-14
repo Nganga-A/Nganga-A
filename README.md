@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abed Nganga</h1>
+<h3 align="center">Hi 👋, I'm Abed Nganga</h3>
 
 - 🌱 I’m currently learning **ReactNative,NextJs,TypeScript,Go**
 
